@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-07-18T05:37:44.701Z</updated>
+    <updated>2024-07-18T17:37:02.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://en.wikipedia.org/wiki/A_Stroke_of_the_Pen:_The_Lost_Stories</id>
         <link href="https://en.wikipedia.org/wiki/A_Stroke_of_the_Pen:_The_Lost_Stories"/>
         <updated>2024-07-18T05:37:41.592Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/A_Stroke_of_the_Pen:_The_Lost_Stories" title="A Stroke of the Pen: The Lost Stories">Terry Pratchett's earliest Discworld stories</a></b> were posthumously found and published by two of his fans?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/A_Stroke_of_the_Pen:_The_Lost_Stories" title="A Stroke of the Pen: The Lost Stories">Terry Pratchett's earliest <i>Discworld</i> stories</a></b> were posthumously found and published by two of his fans?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joan]]></title>
