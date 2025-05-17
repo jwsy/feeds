@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-05-17T02:32:47.260Z</updated>
+    <updated>2025-05-17T05:42:35.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Sa%C5%A1o_Bertoncelj</id>
         <link href="https://en.wikipedia.org/wiki/Sa%C5%A1o_Bertoncelj"/>
         <updated>2025-05-17T02:32:44.075Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Sa%C5%A1o_Bertoncelj" title="Sašo Bertoncelj">Sašo Bertoncelj</a></b> <i>(pictured)</i> competed on <a href="/wiki/MasterChef_Slovenia" title="MasterChef Slovenia">MasterChef Slovenia</a> during his gymnastics career?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Sa%C5%A1o_Bertoncelj" title="Sašo Bertoncelj">Sašo Bertoncelj</a></b> <i>(pictured)</i> competed on <i><a href="/wiki/MasterChef_Slovenia" title="MasterChef Slovenia">MasterChef Slovenia</a></i> during his gymnastics career?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knox Mountain Hillclimb]]></title>
