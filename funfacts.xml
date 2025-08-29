@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2025-08-29T05:41:02.400Z</updated>
+    <updated>2025-08-29T17:41:26.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -63,9 +63,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[an 8th-century log of agarwood]]></title>
-        <id>https://en.wikipedia.org/wiki/Ranjatai_(wood)</id>
-        <link href="https://en.wikipedia.org/wiki/Ranjatai_(wood)"/>
-        <updated>2025-08-29T05:40:59.215Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Ranjatai_(wood)" title="Ranjatai (wood)">an 8th-century log of agarwood</a></b> was enjoyed as incense for more than a millennium by Japanese leaders including <a href="/wiki/Oda_Nobunaga" title="Oda Nobunaga">Oda Nobunaga</a> and <a href="/wiki/Emperor_Meiji" title="Emperor Meiji">Emperor Meiji</a>?]]></content>
+        <id>https://en.wikipedia.org/wiki/Ranjatai</id>
+        <link href="https://en.wikipedia.org/wiki/Ranjatai"/>
+        <updated>2025-08-29T17:41:23.220Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ranjatai" title="Ranjatai">an 8th-century log of agarwood</a></b> was enjoyed as incense for more than a millennium by Japanese leaders including <a href="/wiki/Oda_Nobunaga" title="Oda Nobunaga">Oda Nobunaga</a> and <a href="/wiki/Emperor_Meiji" title="Emperor Meiji">Emperor Meiji</a>?]]></content>
     </entry>
 </feed>
